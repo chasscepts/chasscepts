@@ -12,8 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasscepts)](https://github.com/chasscepts/github-readme-stats)
 
-- #### My Stacks: ![](./line.png) Ruby, Rails, Javascript, React/Redux, HTML/CSS
-- #### Languages:![](./line.png) Java, C#, Kotlin, PHP, Typescript
+- **My Stacks: ![](./line.png) Ruby, Rails, Javascript, React/Redux, HTML/CSS**
+- **Languages:![](./line.png) Java, C#, Kotlin, PHP, Typescript**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chasscepts&show_icons=true)
 
