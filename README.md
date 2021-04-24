@@ -13,6 +13,8 @@
 
 - **When I am not coding, you will most likely catch me singing in a 💬 choir somewhere.**
 
+![l](./line.png)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasscepts)](https://github.com/chasscepts/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chasscepts&show_icons=true)
