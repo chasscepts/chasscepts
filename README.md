@@ -2,8 +2,8 @@
 
 #### I am a full-stack developer 🌱 currently fine-tuning my arts at ![l](./line.png) ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-- **My Stacks: ![](./line.png) Ruby, Rails, Javascript, React/Redux, HTML/CSS**
-- **Languages:![](./line.png) Java, C#, Kotlin, PHP, Typescript**
+- **My Stacks: ![](./line.png) Ruby, Rails, JavaScript, React/Redux, HTML/CSS**
+- **Languages:![](./line.png) Java, C#, Kotlin, PHP, TypeScript**
 
 - 🤔 ![l](./line.png) **I’m looking for a job**
 
